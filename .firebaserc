@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "internationalization-angular": {
+      "hosting": {
+        "firebase-internationalization": [
+          "internationalization-angular"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "internationalization-angular"
+  }
+}

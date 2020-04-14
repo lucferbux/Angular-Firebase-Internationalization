@@ -121,8 +121,16 @@
               "devServerTarget": "firebase-internationalization:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
-    }},
-  "defaultProject": "firebase-internationalization"
+    }
+  },
+  "defaultProject": "firebase-internationalization",
+  "cli": {
+    "analytics": "e474e756-062a-4b0d-9924-1503e0192753"
+  }
 }

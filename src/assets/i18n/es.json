@@ -1,0 +1,12 @@
+{
+    "header": "Bienvenido",
+    "welcomeMessage": "{{ nameApp }} está funcionando",
+    "resources": {
+        "title": "Recursos",
+        "description": "Aquí tienes algunos recursos que pueden servirte"
+    },
+    "nextStep": {
+        "title": "Descripciones",
+        "description": "¿Qué es lo que hace cada recurso?"
+    }
+}
